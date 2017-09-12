@@ -1,0 +1,16 @@
+git init
+git add <nom du fichier> 
+git commit -m <message>
+git -a -m <message>
+git log
+git status
+git branch
+git push
+git clone <url> <path du dossier destination>
+git config --global user.name <nom de l'utilisateur>
+git config --global user.email <email de l'utilisateur>
+git config --global alias.<valeur de l'alias> <commande initiale>
+
+mkdir <path du dossier de destination>
+cd <path du dossier de destination>
+touch <nom du fichier>
